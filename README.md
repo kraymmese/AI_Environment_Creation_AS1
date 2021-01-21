@@ -5,7 +5,9 @@ To use this notebook, you need to follow the following steps;
 
 - Download Anaconda: You can download Anaconda software from the original distributors at the following [Site](https://www.anaconda.com/products/individual).
 
-- After downloading Anaconda, run the following command on your system terminal `conda env create -f environment.yml`
+- Clone this github repository
+
+- After downloading Anaconda and cloning the repo, run the following command on your system terminal `conda env create -f environment.yml`
 
 - To activate your environment, run the following command `conda activate ${first line on the environment.yml file}.`
 
