@@ -1,0 +1,13 @@
+name: AI_ALU
+dependencies:
+  - python=3.6
+  - pip
+  - pip:
+      - jupyter
+      - tensorflow
+      - keras
+      - numpy
+      - scipy
+      - matplotlib
+      - pandas
+      - scikit-learn
